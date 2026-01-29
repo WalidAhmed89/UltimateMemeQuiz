@@ -1,5 +1,4 @@
-# Ultimate Meme Quiz
-# 🧠 Meme Quiz App
+# 🧠 Ultimate Meme Quiz App
 
 A Flutter quiz application designed to test users’ knowledge of internet memes in a fun and interactive way.
 
