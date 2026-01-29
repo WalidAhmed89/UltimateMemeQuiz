@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# UltimateMemeQuiz
+>>>>>>> 78e7ba7be7da1f71b68297a3ee73e576f3644ad9
